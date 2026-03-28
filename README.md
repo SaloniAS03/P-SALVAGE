@@ -38,10 +38,6 @@ Below is an example of how you can instruct your audience on installing and sett
 - Open the terminal using ctrl+` 
 Clone the project
 
-```bash
-  git clone https://github.com/StutiPradhan/ecoworld.git
-```
-
 Run the code
 
 - Locate the VS Code status bar (the blue bar at the bottom of the window)
