@@ -1,5 +1,5 @@
 
-# P-SALVAGE
+# P-Salvage
 
 A mobile application on recycling using the google technologies Flutter and Firebase.
 
